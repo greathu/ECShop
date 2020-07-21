@@ -1,6 +1,7 @@
 # ecshop
 
 > A Vue.js project
+>sh
 
 ## Build Setup
 
@@ -22,4 +23,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 注解
 
-<!---->
+<！---->
+>使用有组件和组件轮播数据传递效果
